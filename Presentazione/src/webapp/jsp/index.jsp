@@ -62,7 +62,7 @@
     di informatica e telecomunicazioni, con la votazione di <i>100 e lode / 100</i>
 </p>
 
-<hr class="border border-primary border-3 opacity-75" id="linea">
+<hr class="border border-primary border-3 opacity-75" id="linea1">
 
 
 </body>
